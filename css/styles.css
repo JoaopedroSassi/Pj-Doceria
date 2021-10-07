@@ -4,5 +4,56 @@
 /* Geral */
 html{
    font-family: 'Open sans', sans-serif;
+   color: #373a3c;
 }
 
+a{
+   transition: .5s;
+}
+
+/* Sidebar */
+#sidebar {
+   position: fixed;
+   height: 100%;
+   width: 300px;
+   background-color: #006599;
+   padding-top: 40px;
+}
+
+#sidebar h1{
+   color: #fff;
+   font-size: 32px;
+   text-align: center;
+   margin-top: 20px;
+   margin-bottom: 30px;
+}
+
+#sidebar a{ 
+   color: #fff;
+   text-decoration: none;
+   font-size: 16px;
+}
+
+#sidebar a:hover{ 
+   color: #5ecaf4;
+}
+
+#sidebar li{
+   padding: 20px;
+}
+
+.sidebar-container{
+   position: relative;
+   margin-left: auto;
+   margin-right: auto;
+   width: 200px;
+}
+
+.logo-doceria{
+   width: 60px;
+   height: 60px;
+   display: block;
+   position: relative;
+   margin-left: auto;
+   margin-right: auto;
+}
