@@ -1,5 +1,4 @@
-# Pj-Doceria--HTML_CSS_TecAdv
-
+# Projeto Doceria
 Projeto de um site realizado no curso de HTML e CSS: Técnias Avançadas. Este curso está disponível na plataforma Udemy. O provedor do curso é conhecido como Matheus Baptist-Hora de codar
 
 ## Sobre o Projeto
