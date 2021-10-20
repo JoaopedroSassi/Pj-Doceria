@@ -9,3 +9,5 @@ As tecnologias uasdas foram:
 * HTML
 * CSS
 
+## Acessar o site
+Caso queira ver o site em funcionamento, sem precisar baixar o código, basta clicar [aqui](https://joaopedrosassi.github.io/Pj-Doceria--HTML_CSS_TecAdv/)
